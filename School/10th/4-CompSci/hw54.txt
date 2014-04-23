@@ -1,0 +1,8 @@
+1. Recursion is the process of using something on itself in a similar way each time. The most common use of recursion comes from situations in which the result must be computed from previously partially computed data - this data is passed backwards until a certain condition is met that travels its way back up the chain, generating a result at each point.
+
+2. The Google search is funny because when you click on the link for recursion, you will be sent to the page for recursion. This is a loop that essentially "calls" itself over and over again, therefore classfying itself as a recursive loop.
+
+3. a_n = a_(n-1) + a_(n-2)
+If the seeds are 0 and 1: a_0 = 0, a_1 = 1, a_2 = 1, ... 			 
+If the seeds are 1 and 1: a_1 = 1, a_2 = 1, a_3 = 2, ...
+

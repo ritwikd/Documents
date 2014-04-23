@@ -1,0 +1,22 @@
+The sort implemented in class was most similar to selection sort, as elements were removed from one list and inserted into the other one in order (another name for this sort is minsort). The sort shown in class was similar to selection sort, but since the sorting algorithm demonstrated in class was not implemented in-place, it is not as memory efficient as when it is traditionally implemented. In class, the pseudocode for the sort went something like this: 
+	
+	1. Create a new empty list called list1.
+	2. Check if the length of the original list (list0) is greater than 0. If so, go to 3. If not, goto 7.
+	3. Find the minimum element of list0. 
+	4. Add a copy of this element to the end of list1.
+	5. Delete this element from list0.
+	6. Go to 2. 
+	7. Return list1.
+
+The actual implementation of selection sort is more like this: 
+
+	1. Create a counter at 0.
+	2. Check if the counter is less than the size of the original list (list0). If so, go to 3. If not, goto 6.
+	3. Find the minimum element of list0. 
+	4. Move this element to the beginning of list0.
+	5. Increment the counter. Goto 3. 
+	6. Return list0.
+
+This implementation of selection sort is more efficient than the algorithm demonstrated in class because it uses less space (as the data is not copied, it is moved, so there is no memory wasted in creating a copy of the element, and there is no time wasted traversing the second list). 
+
+In conclusion, the sort shown in class was a variant of the sorting algorithm known as selection sort. The class implementation is less efficient because it creates another list instead of just operating on the original list.

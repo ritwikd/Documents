@@ -1,0 +1,21 @@
+GridWorld 1,2
+
+Do You Know - 6
+
+1. The bug moves only if it can.
+2. It moves in whatever direction it was going before.
+3. It rotates until it can.
+4. A flower.
+5. It turns until it can move again.
+6. It turns to see if it can move again.
+7. Flowers do not move.
+8. It changes color depending how recently the bug has touched it. 
+9. A rock does not move.
+11. No.
+
+Excercises - 8
+
+1. N, NE, E, SE, S, SW, W, NW, N
+2. I can move it in any of the directions above.
+3. I used setColor()
+4. The bug disappeared.

@@ -1,0 +1,56 @@
+Mass of Magnesium: 0.78 g
+Atmospheric Pressure (show calculations): 29.98 "Hg or 761.5mmHg or 0.979 ATM
+29.98 "Hg * 25.4 mm / 1" = 761.5 mmHg
+744 mmHg * 1 ATM / 760 mmHg = 0.979 ATM
+Room temperature: 22.0 
+Room pressure: 19.8
+Gas volume: 78.15 mL
+
+Mg + 2HCl -> MgCl2 + H2
+
+.78g Mg * 1 mol Mg / 24.305g Mg = 0.032 mols Mg
+
+0.032 mols Mg * 1 mole H2 / 1 mole Mg = 0.032 mols H2
+ 
+Total moles H2: 0.032
+
+PH2 = Ptotal - PH20
+
+PH2 = 761.5 mmHg - 17.5 mmHg = 744 mmHg
+
+PV = nRT
+
+0.979 ATM * 78.15 mL = x mols * 8.31 (J / mole * K) * 295.15 K
+
+76.51 = x mols * 2452.6 J / mole
+
+x mols = 0.0311 mols
+
+The experimental number of moles produced was 0.031. 
+
+The percent error was ( (0.032 - 0.031) / 0.032 ) = 0.031 or 3.1%. 
+
+ 
+2. Why did the magnesium not begin reacting immediately after you placed it into the tube? What action was 
+required in order to start the reaction? 
+ 
+3. Suppose the magnesium ribbon had been sitting in our storage room for a while and had oxidized slightly 
+(that is, a small percentage of it had turned into MgO) before it was used in this lab. How would this affect 
+your measured volume of hydrogen gas? Explain. As part of your explanation, write the reaction that would 
+occur between the MgO and the HCl (you might wish to refer back to the unit on reaction prediction or to the 
+“Cu Later” lab in order to recall this reaction type). 
+ 
+4. In the reaction of magnesium with hydrochloric acid, how many total electrons are transferred? What 
+species is oxidized, and what species is reduced? 
+
+
+1. We used copper wire to hold the magnesium in place because copper does not react with HCl. 
+
+
+2. The reaction does not occur immediately because the molecules of each substance were not charged yet (beyond the basic polar charges). For the reaction to fully start, the molecules of each molecule must ionize so that it is possible for the Mg 2+ ions and the Cl- ions to form MgCl2.
+
+3. There would not be as much hydrogen gas because the MgO would react with the HCl to form water (MgO + 2HCl -> MgCl2 + H2O) and thus there would be more water in the tube and less hydrogen because some of it was used up in the creation of water molecules.
+
+4. Magnesium loses two electrons, and transfers one to each of the chlorines it bonds with (which each retain their original valence configuration of seven electrons), and thus 2 electrons are transferred. Hydrogen does not lose any electrons, but rather detaches them from the chlorines and creates a covalent double bond with another hydrogen. Magnesium is oxidized, because it loses electrons, and Chlorine is reduced because it gains electrons. 
+
+The percent error may have occurred when the measurement was being taken due to the fact that the water in the tube formed a meniscus at the point of measurement. Another possible location of error is in the measurement of current atmospheric temperature - the measurement given was not taken in the same place that the experiment was conducted, so the calculation may have been slightly different if the pressure was measured in the exact same place.

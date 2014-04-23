@@ -1,0 +1,16 @@
+<?xml version="1.0" ?><cherrytree><node name="10th-Notes" prog_lang="custom-colors" readonly="True" tags="School" unique_id="1"><rich_text>The notes for 10th grade.</rich_text><node name="1-English" prog_lang="custom-colors" readonly="False" tags="School, English" unique_id="4"><rich_text></rich_text></node><node name="3-Spanish" prog_lang="custom-colors" readonly="False" tags="School" unique_id="3"><rich_text></rich_text></node><node name="4-CompSci" prog_lang="custom-colors" readonly="False" tags="School" unique_id="5"><rich_text></rich_text></node><node name="5-Religion" prog_lang="custom-colors" readonly="False" tags="School" unique_id="7"><rich_text></rich_text></node><node name="6-History" prog_lang="custom-colors" readonly="False" tags="School" unique_id="8"><rich_text></rich_text></node><node name="7-Chemistry" prog_lang="custom-colors" readonly="False" tags="School" unique_id="9"><rich_text></rich_text><node name="Unit 8" prog_lang="custom-colors" readonly="False" tags="School" unique_id="11"><rich_text></rich_text><node name="8.1" prog_lang="custom-colors" readonly="False" tags="School" unique_id="13"><rich_text underline="single">Section 8.1
+</rich_text><rich_text>• Ionic bonds are held together by the attraction of oppositely charged atoms. 
+• Covalent bonds are formed when two atoms share a bond.
+• Metallic bonds are formed when electrons can freely move throughout a metallic substance.
+• The Lewis symbol shows an element and its valence electons (example for neon) :
+  ..
+ :Ne:
+  ''
+• The number of valence electrons in any main-group element is the same as that element's group number.
+• The octet rule states that atoms tend to gain, lose, or share electrons until they have 8 valence electrons.
+• Ionic substances are normally created from reactions of metals on the left with some on the right.</rich_text></node><node name="8.2" prog_lang="custom-colors" readonly="False" tags="School" unique_id="12"><rich_text underline="single">Section 8.2</rich_text><rich_text>
+• Ionic substances are mostly stable due to mutual attraction.
+• Lattice energy is the amount of energy required to completely separate one mole of a solid ionic compound into its gaseous ions.
+• It is very difficult for electrons in the inner shells to be removed
+• Many nonmetallic elements have ions that are noble-gas configurations
+• Transition metals rarely have ions that have noble-gas configurations </rich_text></node></node></node><node name="8-Math" prog_lang="custom-colors" readonly="False" tags="School" unique_id="10"><rich_text></rich_text></node></node></cherrytree>

@@ -1,0 +1,67 @@
+Question
+========
+
+You work at Ding, the new so-called Google-killer, owned my Microloft. Your job is to deliver users with the data they need, but you want to be able to do it fast. Your data is an ArrayList of Result objects. The code for the result class is below:
+
+public class Result {
+    String message;
+    int ranking;
+
+    public Result (String inp) {
+        this.message = inp;
+        this.ranking = 0;
+    }
+
+    public String getMessage() {
+        return this.message;
+    }
+
+    public int getRank() {
+        return this.ranking;
+    }
+
+    public void setRank(int rank) {
+        this.ranking = rank;
+    }
+}
+
+The way your search works is that every time you search for a result, its ranking goes up, and it switches with the element before it if it has a greater ranking, so the elements that are most in demand are at the front of the list, and the ones least in demand are at the back. The problem is that you do not have enough time to traverse across the entire list every time there is a query, so you have to design a solution that does not always travel across the whole list. The class Search manages all of this, and its code is below:
+
+public class Search {
+    ArrayList<Result> results;
+    public Search() { ... } //You can assume that the ArrayList is populated
+
+    public Result getQuery(String message) {
+        //complete this code
+    }
+}
+
+You will be filling out the getQuery method with the following guidelines:
+
+     > Gets a query
+        - Increments its index
+        - Bubble it up if it has a greater index
+     > Does not traverse the entire list every time
+
+You can assume that 'results' has been populated.
+
+
+Answer
+======
+public Result getQuery(String message) {    
+    Result temp;
+    for (int i = 0; i < this.results.size(); i++) {
+        if (this.results.get(i).getMessage() == message) {
+            this.results.get(i).setRank(this.results.get(i).getRank() + 1);
+            if (i > 0) {
+                if (this.results.get(i).getRank() > this.results.get(i-1).getRank()) {
+                    temp = this.results.get(i);
+                    this.results.set(i, this.results.get(i-1));
+                    this.results.set(i-1, temp);    
+                    return this.results.get(i-1);
+                }
+            }
+            return this.results.get(i);
+        }
+    }
+}
