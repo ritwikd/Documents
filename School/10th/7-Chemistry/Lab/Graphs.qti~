@@ -1,0 +1,160 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	3
+<table>
+ConcvsTime	16	2	30 Apr 2014 17:29:38
+geometry	5	4	445	687	
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel		2
+<data>
+0	0.0058	42.21
+1	0.0058	44.08
+2	0.0058	46.6
+3	0.0058	45.61
+4	0.0058	44.44
+5	0.0058	45.26
+6	0.0058	50.68
+7	0.0058	48.23
+8	0.0019	66.06
+9	0.0019	71.66
+10	0.0014	95.5
+11	0.0014	91.36
+12	0.0011	129.23
+13	0.0011	134.71
+14	0.00097	150.53
+15	0.00097	116.67
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	30 Apr 2014 17:32:02
+geometry	516	84	510	430	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	492	372
+<PageGeometry>0.00996016	0.013089	0.98008	0.973822</PageGeometry>
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	FreeSans	12	75	0	0	0
+ScaleFont0	FreeSans	10	75	0	0	0
+ScaleFont1	FreeSans	10	75	0	0	0
+ScaleFont2	FreeSans	10	75	0	0	0
+ScaleFont3	FreeSans	10	75	0	0	0
+AxisFont0	FreeSans	10	50	0	0	0
+AxisFont1	FreeSans	10	50	0	0	0
+AxisFont2	FreeSans	10	50	0	0	0
+AxisFont3	FreeSans	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#4d4d4d	#4d4d4d	#4d4d4d	#4d4d4d
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+scale	0	0	1000	0	6	5	0	0
+scale	1	0	1000	0	6	5	0	0
+scale	2	0	1000	0	6	5	0	0
+scale	3	0	1000	0	6	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Graph2	1	1	30 Apr 2014 17:35:18
+geometry	483	133	1503	965	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	943	305
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	1485	896
+<PageGeometry>0.00334448	0.00545256	0.993311	0.977099</PageGeometry>
+PlotTitle	Effect of Concentration on Reaction Time	#000000	4228
+<Antialiasing>1</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>1</GridOnTop>
+<MissingDataGap>0</MissingDataGap>
+Background	#ffffff	0
+Margin	10
+Border	2	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Concentration of Solution (M)	Reaction Time (seconds)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	Linux Libertine	54	50	0	0	0
+ScaleFont0	Linux Libertine	34	50	0	0	0
+ScaleFont1	FreeSans	29	75	0	0	0
+ScaleFont2	Linux Libertine	34	50	0	0	0
+ScaleFont3	FreeSans	29	75	0	0	0
+AxisFont0	Linux Libertine	36	50	0	0	0
+AxisFont1	Linux Libertine	36	50	0	0	0
+AxisFont2	Linux Libertine	36	50	0	0	0
+AxisFont3	Linux Libertine	36	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#4d4d4d	#4d4d4d	#4d4d4d	#4d4d4d
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	0
+curve	ConcvsTime_1	ConcvsTime_2	2	1	#000000	1	1	11	1	#000000	#ff0000	0	#000000	14	0.1	2	0	0	15	1
+scale	0	40	160	0	7	5	0	0
+scale	1	40	160	0	7	5	0	0
+scale	2	0	0.006	0	7	5	0	0
+scale	3	0	0.006	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<open>1</open>
