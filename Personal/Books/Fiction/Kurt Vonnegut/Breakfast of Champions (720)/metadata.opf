@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36ce39f5-b89f-4b49-aae2-16e1dd5cae7d</dc:identifier>
+        <dc:title>Breakfast of Champions</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1973-07-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;In a frolic of cartoons and comic outbursts against rule and reason, Kurt Vonnegut attacks the whole spectrum of American society, releasing some of his best-loved literary creations on the scene.'Vonnegut performs considerable complex magic...fresh, funny, outrageous... he very nearly levitates' New York Times&lt;/p&gt;</dc:description>
+        <dc:publisher>Vintage</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780099842606</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-02T21:53:46.093000+00:00" name="calibre:timestamp"/>
+        <meta content="Breakfast of Champions" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

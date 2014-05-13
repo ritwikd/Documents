@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">750299d0-cb69-4abf-819f-e064a395fee9</dc:identifier>
+        <dc:title>Deadeye Dick</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-03-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A funny, chillingly satirical look at the death of innocence. Rudy 
+Waltz, a.k.a. Deadeye Dick, takes readers on a zany search for 
+absolution and happiness in this tale of crime and punishment that makes
+ us rethink what we believe and who we say we are. "Vonnegut is . . . a 
+zany but moral mad scientist."--Time.&lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-02T21:53:52.812000+00:00" name="calibre:timestamp"/>
+        <meta content="Deadeye Dick" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

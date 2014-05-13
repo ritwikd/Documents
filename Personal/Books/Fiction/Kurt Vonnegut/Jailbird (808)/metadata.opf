@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3dac9c5-59bc-460a-b693-3c4c7587ca1a</dc:identifier>
+        <dc:title>Jailbird</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-03-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;i&gt;Jailbird&lt;/i&gt; takes us into a fractured and comic, pure Vonnegut world 
+of high crimes and misdemeanors in government. . .and in the heart. This
+ wry tale follows bumbling bureaucrat Walter F. Starbuck from Harvard to
+ the Nixon White House to the penitentiary as Watergate's least known 
+co-conspirator. But the humor turns dark when Vonnegut shines his 
+spotlight on the cold hearts and calculated greed of the mighty, giving a
+ razor-sharp edge to an unforgettable portait of power and politics in 
+our times.&lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-04T00:25:24.380000+00:00" name="calibre:timestamp"/>
+        <meta content="Jailbird" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">085df07c-e7f8-4ebb-b0a5-457e83c70f76</dc:identifier>
+        <dc:title>Player Piano</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.2) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1952-03-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt; Vonnegut's first novel spins the chilling tale of engineer Paul Proteus,
+ who must find a way to live in a world dominated by a super computer 
+and run completely by machines. His rebellion is a wildly funny, darkly 
+satirical look at modern society.      &lt;/p&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-02T21:54:29+00:00" name="calibre:timestamp"/>
+        <meta content="Player Piano" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f94f1c3-d7b4-4f11-a029-4143b3b2d578</dc:identifier>
+        <dc:title>God Bless You, Mr. Rosewater</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1965-01-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;"God Bless You, Mr. Rosewater" is a comic masterpiece. Eliot Rosewater, drunk, volunteer fireman, and President of the fabulously rich Rosewater Foundation, is about to attempt a noble experiment with human nature...with a little help from writer Kilgore Trout. The result is Vonnegut's funniest satire, an etched-in-acid portrayal of the greed, hypocrisy, and follies of the flesh we are all heir to.&lt;/p&gt;</dc:description>
+        <dc:publisher>Dell</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385333474</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-03T04:39:05.453000+00:00" name="calibre:timestamp"/>
+        <meta content="God Bless You, Mr. Rosewater" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59eff886-f19c-48fd-8b69-92d8efeaffac</dc:identifier>
+        <dc:title>Galápagos</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-09-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt; “Beautiful…provocative, arresting reading.”–USA Today&lt;/p&gt;&lt;p class="description"&gt;KURT VONNEGUT is a master of contemporary American literature. His black humor, satiric voice, and incomparable imagination first captured America’s attention in The Sirens of Titan in 1959 and established him as “a true artist”* with Cat’s Cradle in 1963. He is, as Graham Greene has declared, “one of the best living American writers.” Galápagos takes the reader back one million years, to a.d. 1986. A simple vacation cruise suddenly becomes an evolutionary journey. Thanks to an apocalypse, a small group of survivors stranded on the Galápagos Islands are about to become the progenitors of a brave new, and totally different human race. Here, America’s master satirist looks at our world and shows us all that is sadly, madly awry–and all that is worth saving. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dell</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385333870</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-03T04:39:05+00:00" name="calibre:timestamp"/>
+        <meta content="Galápagos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

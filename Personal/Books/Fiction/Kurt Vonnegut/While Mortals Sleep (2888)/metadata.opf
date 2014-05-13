@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b09dddb9-ed70-4196-bff6-e21d243ede50</dc:identifier>
+        <dc:title>While Mortals Sleep</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.2) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-25T08:01:37+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;&lt;font class="Apple-style-span" size="3"&gt;&lt;span class="Apple-style-span" style="font-size: 13px; font-weight: normal;"&gt;Foreword by Dave Eggers&lt;br&gt;&lt;br&gt;Smart,
+ whimsical, and often scathing, the fiction of Kurt Vonnegut influenced a
+ generation of American writers - including Dave Eggers, author of this 
+volume's Foreword. In these previously unpublished gems, Vonnegut's 
+originality infuses a unique landscape of factories, trailers, and bars -
+ and characters who pit their dreams and fears against a cruel and 
+sometimes comically indifferent world.&lt;br&gt;&lt;br&gt;Here are stories of men 
+and machines, art and artifice, and how ideals of fortune, fame, and 
+love take curious twists in ordinary lives. An ambitious builder of 
+roads, commanding an army of bulldozers, graders, and asphalt spreaders,
+ fritters away his free time with miniature trains - until the women in 
+his life crash his fantasy land. Trapped in a stenography pool, a young 
+dreamer receives a call from a robber on the run, who presents her with a
+ strange proposition. A crusty newspaperman is forced onto a committee 
+to judge Christmas displays - a job that leads him to a suspiciously 
+ostentatious ex-con and then a miracle. A hog farmer's widow receives 
+cryptic, unsolicited letters from a man in Schenectady about 'the 
+indefinable sweet aches of the spirit.'  But what will she find when she
+ goes to meet him in the flesh?&lt;br&gt;&lt;br&gt;These beautifully rendered works 
+are a testament to Vonnegut's unique blend of observation and 
+imagination. Like a present left behind by a departed loved one, &lt;i&gt;While Mortals Sleep&lt;/i&gt; bestows upon us a shimmering Kurt Vonnegut gift: a poignant reflection of our world as it is and as it could be.&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-27T14:06:02+00:00" name="calibre:timestamp"/>
+        <meta content="While Mortals Sleep" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

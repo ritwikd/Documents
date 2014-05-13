@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">617f147c-6456-41a6-988e-de54ea988ca3</dc:identifier>
+        <dc:title>Sirens of Titan</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1959-03-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;br&gt;The richest and most depraved man on Earth takes a wild space journey to distant worlds, learning about the purpose of human life along the way.&lt;/p&gt;</dc:description>
+        <dc:publisher>Dial Press Trade Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385333498</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-02T21:54:31.281000+00:00" name="calibre:timestamp"/>
+        <meta content="Sirens of Titan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

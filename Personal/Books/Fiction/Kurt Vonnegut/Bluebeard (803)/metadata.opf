@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75ec66fd-6047-4809-8ac0-3ad13a7a5ddb</dc:identifier>
+        <dc:title>Bluebeard</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-10-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Vonnegut rounds up several familiar themes and character types for his 
+13th novel: genocide, the surreality of the modern world, fluid 
+interplay of the past and present, and the less-than-heroic figure 
+taking center stage to tell his story. Here he elevates to narrator a 
+minor character from Breakfast of Champions , wounded World War II 
+veteran and abstract painter Rabo Karabekian. At the urging of 
+enchantress-as-bully Circe Berman, Karabekian writes his "hoax 
+autobiography." Vonnegut uses the tale to satirize art movements and the
+ art-as-investment mind-set and to explore the shifting shape of 
+reality. Although not among his best novels, Bluebeard is a good one and
+ features liberal doses of his off-balance humor. Recommended. &lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-03T04:40:09.015000+00:00" name="calibre:timestamp"/>
+        <meta content="Bluebeard" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
