@@ -1,0 +1,12 @@
+DYK 3
+1. loc1.getRow()
+2. b is false
+3. (3, 5)
+4. 315
+5. It gets the direction from the angle.
+
+DYK4
+1. You can use a nested for loop.
+2. Check if its coordinates are smaller than those in the grid.
+3. You can find them in the subclasses.
+4. No, because then the number of objects is fixed.

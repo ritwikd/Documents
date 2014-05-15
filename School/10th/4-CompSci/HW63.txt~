@@ -1,0 +1,7 @@
+int s = 0;
+for (int i: arr) {
+	s += (i % 2 == 0) ? 0 : i;
+}
+return s;
+
+
