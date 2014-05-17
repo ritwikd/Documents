@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3448792d-35de-4714-8879-a7286872fe6e</dc:identifier>
+        <dc:title>Cat's Cradle</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1960-01-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Cat’s Cradle , in which Vonnegut weaves a satirical commentary on modern man and his madness, is one of the author’s most highly praised novels. Filled with humor and unforgettable characters, this is the apocalyptic story of the end of the Earth, coupled with a vision of the future that is both darkly fantastic and funny.&lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-02T21:53:50.234000+00:00" name="calibre:timestamp"/>
+        <meta content="Cat's Cradle" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

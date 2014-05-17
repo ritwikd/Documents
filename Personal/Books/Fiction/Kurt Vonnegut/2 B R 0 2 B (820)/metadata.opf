@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0de90414-ff6d-4b20-a5b5-4f0b87a1e170</dc:identifier>
+        <dc:title>2 B R 0 2 B</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-02-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;His short work, "2 B R 0 2 B," is a genre science fiction tale originally published in the magazine "Worlds of If" in 1962.      &lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">1434458792</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-05T21:09:20.671000+00:00" name="calibre:timestamp"/>
+        <meta content="2 B R 0 2 B" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

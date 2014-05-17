@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f225767d-48dc-4748-b9f6-60e58048cbeb</dc:identifier>
+        <dc:title>Big Trip Up Yonder</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1959-06-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Vonnegut's short work, "The Big Trip Up Yonder," is a genre science 
+fiction tale originally published in the magazine "Galaxy Science 
+Fiction" in 1959 &lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span id="freeTextContainer8544539806581081405"&gt;The Big Trip Up Yonder 
+is the story of Gramps Ford, 172 years old in this year 2185 AD, &amp;amp; 
+his large acrimonious clan that shares a 3 room apartment. &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">1557428085</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-05T21:09:21.140000+00:00" name="calibre:timestamp"/>
+        <meta content="Big Trip Up Yonder" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

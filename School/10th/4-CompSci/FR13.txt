@@ -1,0 +1,20 @@
+a)
+
+public int getTotalBoxes() {
+	int x = 0;
+	for (CookieOrder o: orders) {
+		x += o.getNumBoxes();
+	}
+	return x;
+}
+
+
+b) 
+public int removeVariety(String cookieVar) {
+	for (CookieOrder o: orders) {
+		if (o.getVariety().equals(cookieVar)) {
+			orders.remove(orders.indexOf(o));
+		}
+	}
+}
+

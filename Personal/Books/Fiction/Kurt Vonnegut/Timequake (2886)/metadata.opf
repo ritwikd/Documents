@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee8f047f-9fb1-43f1-9ab3-3981698f6e7b</dc:identifier>
+        <dc:title>Timequake</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.2) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-05-26T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div style="text-align: center;"&gt;&lt;b&gt;Awards&lt;/b&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;British Fantasy Society (nominee)&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;br&gt;&lt;/div&gt;After the universe decides to back up ten years and all humans must live thro the 1990s again, author Kurt Vonnegut finds himself trying to write a book called Timequake, which he knows he will never finish since he already did finish it.&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-27T14:03:52+00:00" name="calibre:timestamp"/>
+        <meta content="Timequake" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

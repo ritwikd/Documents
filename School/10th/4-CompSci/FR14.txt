@@ -1,0 +1,28 @@
+a)
+
+public DownloadInfo getDownloadInfo(String title) {
+	for (DownloadInfo d: downloadList) {
+		if (d.getTitle().equals(title)) {
+			return d;
+		}
+	}
+	return null;
+}
+
+b)
+
+public void updateDownloads(List<String> titles ) {
+	boolean sU;
+	for (String s: title) {
+		sU = false;
+		for (DownloadInfo d: downloadList) {
+			if (d.getTitle().equals(s)) {
+				d.incrementTimeDownloaded();
+				sU = true;
+			}
+		}
+		if (sU == false) {
+			downloadList.add(new DownloadInfo(s));
+		}
+	}
+}
